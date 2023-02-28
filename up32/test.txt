@@ -1,6 +1,3 @@
 {
-"newVersion": "ritaj",
-"apkUrl": "bilal",
-"versionNotes":"abdo"
-"
+      "message": "abdoel",
 }
