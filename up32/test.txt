@@ -1,13 +1,6 @@
 {
-"newVersion": "2.0.0",
-"apkUrl": "https://play.google.com/store/apps/details?id=lite.apps.bee",
-"versionNotes":"
-    
-what's new? 
-✅ fix sharenet with proxy socket 
-
-https://t.me/+MMNSF0pr0lU4MTQ0
-✅ telegram channel :
-https://t.me/+zDwPNI4vKpc5NTlk 
+"newVersion": "ritaj",
+"apkUrl": "bilal",
+"versionNotes":"abdo"
 "
 }
