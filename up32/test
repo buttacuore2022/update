@@ -1,0 +1,21 @@
+{
+    "Version": "1.7",
+    "ReleaseNotes": "milaf tajribi",
+    "Servers": [
+        {
+            "url": "vmess:\/\/eyJhZGQiOiIxNTEuMTAxLjEzNC4yMTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJlZS5iZSIsImlkIjoiMjFjY2YwNDgtY2JlNi00NjZlLTg3YTAtNmU0ODlhYmU1NDRhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJPUkFOR0UgMO+4j+KDo0RIIEJFRVRVTk5FTCAyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+        },
+        {
+            "url": "vmess:\/\/eyJhZGQiOiIxNTEuMTAxLjEzNC4yMTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImJsYS1kZXIuYmxhZGVydmlwLm15d2lyZS5vcmciLCJpZCI6IjRhMjZhODIxLTI1N2QtNDhkMS05MGQ0LWJlZjFlMjNlODA2NSIsIm5ldCI6IndzIiwicGF0aCI6Ii85c0hxNlUxYi8iLCJwb3J0IjoiODAiLCJwcyI6Ik9SQU5HRSAw77iP4oOjREggQkVFVFVOTkVMIDEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+        },
+        {
+            "url": "vmess:\/\/eyJhZGQiOiIxNTEuMTAxLjEzNC4yMTkiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5bmV0ZHJvaWRpZDQudjJyYXluZXRkcm9pZGlkNC5jYW1kdnIub3JnIiwiaWQiOiJlYzkzNGE2Mi02ZGM3LTRmN2MtOTAzOC00YjA5NGJlYzMwZTkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdDdwTkUyRGYvIiwicG9ydCI6IjQ0MyIsInBzIjoiT1JBTkdFIDDvuI\/ig6NESCBCZWVUdW5uZWwgMyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ0ZXN0LnR3aW1nLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+        },
+        {
+            "url": "vmess:\/\/eyJhZGQiOiJ0ZXN0LnR3aW1nLmNvbSIsImFpZCI6IjE2IiwiaG9zdCI6ImJlZXNvY2tzLmNvbSIsImlkIjoiYTQwZDM0YzYtYjc3Yy00NjQ4LTkyMTAtM2U4ZDJmNDIyNmI1IiwibmV0Ijoid3MiLCJwYXRoIjoiL29wZW50dW5uZWw\/dXNlclx1MDAzZG9wZW50dW5uZWwubmV0LWJlZSIsInBvcnQiOiI0NDMiLCJwcyI6Imlud2kqNiDwn4ey8J+HpiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ0ZXN0LnR3aW1nLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+        },
+        {
+            "url": "vmess:\/\/eyJhZGQiOiJ3aWxkY2FyZC50d2ltZy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5bmV0ZHJvaWRpZDQudjJyYXluZXRkcm9pZGlkNC5jYW1kdnIub3JnIiwiaWQiOiJlYzkzNGE2Mi02ZGM3LTRmN2MtOTAzOC00YjA5NGJlYzMwZTkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdDdwTkUyRGYvIiwicG9ydCI6IjQ0MyIsInBzIjoiSU5XSSDirZA2IEJlZVR1bm5lbCAyIiwic2N5IjoiYXV0byIsInNuaSI6IndpbGRjYXJkLnR3aW1nLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+        }
+    ]
+}
