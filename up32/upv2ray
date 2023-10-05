@@ -1,9 +1,9 @@
 {
-    "Version": "1.9",
+    "Version": "2",
     "ReleaseNotes": "milaf tajribi",
     "Servers": [
         {
-            "url": "vmess://eyJhZGQiOiI1MS4xNDAuMjQ5LjE2OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibHAudmliZXIuY29tIiwiaWQiOiIxNjYzYjNmMi0zMDlhLTRkNjUtZTcxZS0wNGViYWQxNmFjNGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6Im9mcHB0IG5ldyBtZXRob2TinIUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+            "url": "vmess\/\/eyJhZGQiOiI1MS4xNDAuMjQ5LjE2OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibHAudmliZXIuY29tIiwiaWQiOiIxNjYzYjNmMi0zMDlhLTRkNjUtZTcxZS0wNGViYWQxNmFjNGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6Im9mcHB0IG5ldyBtZXRob2TinIUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
         }
     ]
 }
