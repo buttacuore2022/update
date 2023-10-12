@@ -1,9 +1,9 @@
 {
-    "Version": "2",
+    "Version": "3",
     "ReleaseNotes": "milaf tajribi",
     "Servers": [
         {
-            "url": "vmess\/\/eyJhZGQiOiI1MS4xNDAuMjQ5LjE2OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibHAudmliZXIuY29tIiwiaWQiOiIxNjYzYjNmMi0zMDlhLTRkNjUtZTcxZS0wNGViYWQxNmFjNGYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjgwODAiLCJwcyI6Im9mcHB0IG5ldyBtZXRob2TinIUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+            "url": "vmess://eyJhZGQiOiIxMDQuMTU2LjgxLjE5OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMW5hbmRvZmFzdGx5LmNvbS5nbG9iYWwucHJvZC5mYXN0bHkubmV0IiwiaWQiOiJmYTliOTM0MC02NDg2LTExZWUtYjEzMC0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvMHhwZ245NGEiLCJwb3J0IjoiODAiLCJwcyI6InYycmF5IG9mcHB0MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
         }
     ]
 }
