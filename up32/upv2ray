@@ -3,7 +3,7 @@
     "ReleaseNotes": "milaf tajribi",
     "Servers": [
         {
-            "url": "vmess://eyJhZGQiOiJ0ZXN0LnR3aW1nLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiMXNlcmdpb21lcmNlZGVzLmNvbS5nbG9iYWwucHJvZC5mYXN0bHkubmV0IiwiaWQiOiJiMzkxZTA2MC02ODQ3LTExZWUtYjMzMi0yMDVjNmQ1ZjVkNzgiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZmoyYndvcXQiLCJwb3J0IjoiNDQzIiwicHMiOiJpbndp4q2QNiB1c2EiLCJzY3kiOiJub25lIiwic25pIjoidGVzdC50d2ltZy5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ=="
+            "url": "vmess://eyJhZGQiOiJ1czEuc29jaWZpbGVzLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkODg5MWQ0MC02YzFjLTExZWUtYWVmNC0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm13cyIsInBvcnQiOiI4MCIsInBzIjoiVVNcclxuK1ZNRVNTLVdTIE5UTFMoMjAyMy0xMC0yMykiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
         },
         {
             "url": "vmess://eyJhZGQiOiIyMy4yMzUuMzMuMTk4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZXN0LmJlIiwiaWQiOiJmMTExZmUxMC02ODdhLTExZWUtYTJkMy0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm13cyIsInBvcnQiOiI4MCIsInBzIjoib2ZwcHQgdXNhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
