@@ -1,9 +1,9 @@
 {
-    "Version": "8.0",
+    "Version": "8.1",
     "ReleaseNotes": "milaf tajribi",
     "Servers": [
         {
-            "url": "vmess://eyJhZGQiOiJ1czEuc29jaWZpbGVzLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkODg5MWQ0MC02YzFjLTExZWUtYWVmNC0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm13cyIsInBvcnQiOiI4MCIsInBzIjoiVVNcclxuK1ZNRVNTLVdTIE5UTFMoMjAyMy0xMC0yMykiLCJzY3kiOiJub25lIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0="
+            "url": "vmess://eyJhZGQiOiJ0ZXN0LnR3aW1nLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWluYXByb25ldHZwbi51cyIsImlkIjoiMjMxYjJiZWUtNWEyNi00ODljLTk5MTYtMDhkZTk1OTU0Y2E0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NTUWF1akZtLyIsInBvcnQiOiI0NDMiLCJwcyI6Imlud2nirZA2IHVzYSIsInNjeSI6Im5vbmUiLCJzbmkiOiJ0ZXN0LnR3aW1nLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9"
         },
         {
             "url": "vmess://eyJhZGQiOiIyMy4yMzUuMzMuMTk4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZXN0LmJlIiwiaWQiOiJmMTExZmUxMC02ODdhLTExZWUtYTJkMy0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm13cyIsInBvcnQiOiI4MCIsInBzIjoib2ZwcHQgdXNhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
