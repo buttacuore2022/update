@@ -1,12 +1,114 @@
 {
-    "Version": "8.1",
+    "Version": "8.2",
     "ReleaseNotes": "milaf tajribi",
     "Servers": [
         {
-            "url": "vmess://eyJhZGQiOiJ0ZXN0LnR3aW1nLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWluYXByb25ldHZwbi51cyIsImlkIjoiMjMxYjJiZWUtNWEyNi00ODljLTk5MTYtMDhkZTk1OTU0Y2E0IiwibmV0Ijoid3MiLCJwYXRoIjoiL3NTUWF1akZtLyIsInBvcnQiOiI0NDMiLCJwcyI6Imlud2nirZA2IHVzYSIsInNjeSI6Im5vbmUiLCJzbmkiOiJ0ZXN0LnR3aW1nLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+            "url": "{
+		"inbounds": [],
+		"outbounds": [
+				{
+						"mux": {
+								"enabled": false
+						},
+						"protocol": "vmess",
+						"settings": {
+								"vnext": [
+										{
+												"address": "test.twimg.com",
+												"port": 443,
+												"users": [
+														{
+																"alterId": 0,
+																"id": "eb4270f2-feff-474e-aca5-5ec7ce0415a9",
+																"level": 8,
+																"security": "auto"
+														}
+												]
+										}
+								]
+						},
+						"streamSettings": {
+								"network": "ws",
+								"security": "tls",
+								"tlsSettings": {
+										"allowInsecure": true,
+										"serverName": "test.twimg.com"
+								},
+								"wsSettings": {
+										"headers": {
+												"Host": "ggghw1.cdlovelyvipnet.xyz"
+										},
+										"path": "/vmess"
+								}
+						},
+						"tag": "VMESS"
+				}
+		],
+		"policy": {
+				"levels": {
+						"8": {
+								"connIdle": 300,
+								"downlinkOnly": 1,
+								"handshake": 4,
+								"uplinkOnly": 1
+						}
+				}
+		}
+}"
         },
         {
-            "url": "vmess://eyJhZGQiOiIyMy4yMzUuMzMuMTk4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ0ZXN0LmJlIiwiaWQiOiJmMTExZmUxMC02ODdhLTExZWUtYTJkMy0xMjM5ZDAyNTUyNzIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm13cyIsInBvcnQiOiI4MCIsInBzIjoib2ZwcHQgdXNhIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9"
+            "url": "{
+		"inbounds": [],
+		"outbounds": [
+				{
+						"mux": {
+								"enabled": false
+						},
+						"protocol": "vmess",
+						"settings": {
+								"vnext": [
+										{
+												"address": "test.twimg.com",
+												"port": 443,
+												"users": [
+														{
+																"alterId": 0,
+																"id": "eb4270f2-feff-474e-aca5-5ec7ce0415a9",
+																"level": 8,
+																"security": "auto"
+														}
+												]
+										}
+								]
+						},
+						"streamSettings": {
+								"network": "ws",
+								"security": "tls",
+								"tlsSettings": {
+										"allowInsecure": true,
+										"serverName": "test.twimg.com"
+								},
+								"wsSettings": {
+										"headers": {
+												"Host": "ggghw1.cdlovelyvipnet.xyz"
+										},
+										"path": "/vmess"
+								}
+						},
+						"tag": "VMESS"
+				}
+		],
+		"policy": {
+				"levels": {
+						"8": {
+								"connIdle": 300,
+								"downlinkOnly": 1,
+								"handshake": 4,
+								"uplinkOnly": 1
+						}
+				}
+		}
+}"
         }
     ]
 }
