@@ -1,26 +1,9 @@
-[
-   {
-      "courseName":"Fork CPP",
-      "courseimg":"https://media.geeksforgeeks.org/img-practice/banner/fork-cpp-thumbnail.png",
-      "courseMode":"Online Batch",
-      "courseTracks":"6 Tracks"
-   },
-   {
-      "courseName":"Linux & Shell Scripting Foundation",
-      "courseimg":"https://media.geeksforgeeks.org/img-practice/banner/linux-shell-scripting-thumbnail.png",
-      "courseMode":"Online Batch",
-      "courseTracks":"8 Tracks"
-   },
-   {
-      "courseName":"11 Weeks Workshop on Data Structures and Algorithms",
-      "courseimg":"https://media.geeksforgeeks.org/img-practice/banner/Workshop-DSA-thumbnail.png",
-      "courseMode":"Online Batch",
-      "courseTracks":"47 Tracks"
-   },
-   {
-      "courseName":"Data Structures and Algorithms",
-      "courseimg":"https://media.geeksforgeeks.org/img-practice/banner/dsa-self-paced-thumbnail.png",
-      "courseMode":"Online Batch",
-      "courseTracks":"24 Tracks"
-   }
-]
+{
+    "jname": "botolat europa 2024",
+    "jicon1": "https:\/\/scontent.xx.fbcdn.net\/v\/t39.30808-6\/398284524_340865235300810_372778282606458844_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=DJ2v15nbSLAQ7kNvgGL5h9j&_nc_zt=23&_nc_ht=scontent.frak3-1.fna&oh=00_AYD3FiH0ZJIxZwi1WUV3n2wdkS1gEfcoJSyOowS4rbGZpg&oe=667BCC92",
+    "jicon2": "https:\/\/scontent.xx.fbcdn.net\/v\/t39.30808-6\/398284524_340865235300810_372778282606458844_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=5f2048&_nc_ohc=DJ2v15nbSLAQ7kNvgGL5h9j&_nc_zt=23&_nc_ht=scontent.frak3-1.fna&oh=00_AYD3FiH0ZJIxZwi1WUV3n2wdkS1gEfcoJSyOowS4rbGZpg&oe=667BCC92",
+    "jname1": "23:00",
+    "jname2": "ITALIE",
+    "jname3": "FRANCE",
+    "jurl1": "https:\/\/cnn-cnninternational-1-eu.rakuten.wurl.tv\/playlist.m3u8"
+}
