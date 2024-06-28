@@ -1,11 +1,10 @@
 [
     {
-        "jname": "MOROCCO",
-        "jicon2": "2131165336"    
-    },
-    {
-        "jname": "EGEPT",
-        "jicon2": "2131165332"    
+    "title": "botolat europa 2024",
+    "flag1": "2131165336",
+    "flag2": "2131165332",
+    "note": "23:00",
+    "pay1": "ITALIE",
+    "pay2": "FRANCE"
     }
-
 ]
