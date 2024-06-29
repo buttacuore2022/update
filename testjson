@@ -1,34 +1,39 @@
 [
     {
     "title": "botolat europa 2024",
-    "flag1": "2131165336",
-    "flag2": "2131165332",
+    "flag1": "it",
+    "flag2": "fr",
     "note": "23:00",
     "pay1": "ITALIE",
-    "pay2": "FRANCE"
+    "pay2": "FRANCE",
+    "url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
     },
     {
     "title": "botolat europa 2024",
-    "flag1": "2131165336",
-    "flag2": "2131165332",
+    "flag1": "ma",
+    "flag2": "eg",
     "note": "21:00",
     "pay1": "MOROCCO",
-    "pay2": "EGYPT"
+    "pay2": "EGYPT",
+    "url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
     },
      {
     "title": "botolat europa 2024",
-    "flag1": "2131165336",
-    "flag2": "2131165332",
+    "flag1": "tg",
+    "flag2": "ca",
     "note": "19:00",
     "pay1": "TOGO",
-    "pay2": "CAMERON"
+    "pay2": "CAMERON",
+    "url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+  
     },
     {
     "title": "botolat europa 2024",
-    "flag1": "2131165336",
-    "flag2": "2131165332",
+    "flag1": "ni",
+    "flag2": "si",
     "note": "17:00",
     "pay1": "NIJIRIA",
-    "pay2": "SINIGAL"
+    "pay2": "SINIGAL",
+    "url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
     }
 ]
