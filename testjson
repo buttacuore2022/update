@@ -2,38 +2,37 @@
     {
     "title": "botolat europa 2024",
     "flag1": "it",
-    "flag2": "fr",
-    "note": "23:00",
-    "pay1": "ITALIE",
-    "pay2": "FRANCE",
-    "url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+    "flag2": "sw",
+    "note": "17:00",
+    "pay1": "ايطاليا",
+    "pay2": "سويسرا",
+    "url":""
     },
     {
     "title": "botolat europa 2024",
-    "flag1": "ma",
-    "flag2": "eg",
-    "note": "21:00",
-    "pay1": "MOROCCO",
-    "pay2": "EGYPT",
-    "url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+    "flag1": "de",
+    "flag2": "dk",
+    "note": "20:00",
+    "pay1": "المانيا",
+    "pay2": "الدنمارك",
+    "url":""
     },
      {
     "title": "botolat europa 2024",
-    "flag1": "tg",
+    "flag1": "chili",
     "flag2": "ca",
     "note": "19:00",
-    "pay1": "TOGO",
-    "pay2": "CAMERON",
-    "url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
-  
+    "pay1": "الشيلي",
+    "pay2": "كندا",
+    "url":""  
     },
     {
     "title": "botolat europa 2024",
-    "flag1": "ni",
-    "flag2": "si",
+    "flag1": "pe",
+    "flag2": "ar",
     "note": "17:00",
-    "pay1": "NIJIRIA",
-    "pay2": "SINIGAL",
-    "url":"https://bitdash-a.akamaihd.net/content/MI201109210084_1/m3u8s/f08e80da-bf1d-4e3d-8899-f0f6155f6efa.m3u8"
+    "pay1": "البيرو",
+    "pay2": "الأرجنتين",
+    "url":""
     }
 ]
