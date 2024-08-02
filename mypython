@@ -1,0 +1,44 @@
+import requests,os,json,webbrowser,random,user_agent,time
+url = "https://api.likesjet.com/freeboost/7"
+username=input('enter username instagram: ')
+link=input('enter link post: ')
+os.system('clear')
+useragent=user_agent.generate_user_agent()
+email=str(random.randint(100000, 999999)) +"@gmail.com"
+payload = json.dumps({
+  "link": link,
+  "instagram_username": "@"+username,
+  "email": email
+})
+
+headers = {
+  'User-Agent': useragent,
+  'Accept': "application/json, text/plain, */*",
+  'Content-Type': "application/json",
+  'sec-ch-ua': "\"Google Chrome\";v=\"125\", \"Chromium\";v=\"125\", \"Not.A/Brand\";v=\"24\""
+}
+
+response = requests.post(url, data=payload, headers=headers)
+if "Success! You will receive likes within next few minutes." in response.text:
+	url = "https://api.likesjet.com/list/7"
+	
+	payload = json.dumps({
+	  "email": email,
+	  "page": 1,
+	  "status": "All"
+	})
+	
+	headers = {
+	  'User-Agent': useragent,
+  'Accept': "application/json, text/plain, */*",
+  'Content-Type': "application/json",
+  'sec-ch-ua': "\"Google Chrome\";v=\"125\", \"Chromium\";v=\"125\", \"Not.A/Brand\";v=\"24\""
+	}
+	
+	response = requests.post(url, data=payload, headers=headers)
+	if "successfully" in response.text:
+		print("✅")
+		
+else:
+		print("Please wait 24 hours ")
+		exit()
